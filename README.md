@@ -1,12 +1,12 @@
-EID_ArtGiant, 1000
-CID_369_Athena_Commando_F_DevilRock, 2000
-CID_370_Athena_Commando_M_EvilSuit, 2000
+EID_Floss, 1000
+CID_061_Athena_Commando_F_SkiGirl, 2000
+CID_066_Athena_Commando_F_SkiGirl_GER, 2000
 na
 na
 na
-MusicPack_039_Envy, 500
-Glider_ID_104_FuzzyBear, 1200
-EID_Fresh, 3500
-Wrap_139_Prismatic, 300
-EID_Floss, 5000
-CID_598_Athena_Commando_M_Mastermind, 1500
+MusicPack_117_WinterFest2021, 500
+Glider_ID_338_SnowboardMale, 1200
+EID_TakeTheElf, 500
+BID_180_IceMaiden, 800
+Pickaxe_ID_015_HolidayCandyCane, 2000
+Pickaxe_ID_294_CandyCane, 3000 
